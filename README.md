@@ -13,7 +13,6 @@ This project focuses on predicting energy usage in buildings using HVAC-related 
 | `correlation_heatmap.png` | Heatmap showing feature correlation with energy usage                  |
 | `scatter_outside_temp.png`| Scatter plot of outside temp vs consumption                            |
 | `mse_comparison.png` | Bar chart showing MSE for test points                                       |
-| `README.md`          | This documentation file                                                     |
 
 ---
 
